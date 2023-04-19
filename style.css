@@ -1,0 +1,15 @@
+/* A'uzubillah */
+
+.header__container{
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 16px;
+    margin-top: 24px;
+}
+
+.header__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
