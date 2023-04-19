@@ -24,10 +24,24 @@
     color: aliceblue;
 }
 
-.list{
+.header__list{
     display: flex;
     justify-content: space-between;
     align-items: center;
     
 }
 /* Bismillah */
+
+.header__item{
+    margin: 0 6px;
+}
+
+.header__link {
+    padding: 8px 16px;
+    color: gray;
+    
+}
+
+.header__item .header__link:hover {
+    color: #58A9A5;
+}
