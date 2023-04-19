@@ -58,5 +58,10 @@
 .header__item .header__link:hover {
     color: #58A9A5;
 }
-/* boldi charchadim li o'xshamayapti, keyingisiga o'taman */
+
+/* section */
+
+.section__left{
+    background-image: url();
+}
 
