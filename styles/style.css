@@ -16,10 +16,18 @@
 
 .header__button{
     background: #58A9A5;
-    width: 120px;
-    height: 45px;
+    width: 140px;
+    height: 50px;
     border-radius: 10px;
     border-color: #58A9A5;
     border: none;
     color: aliceblue;
 }
+
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+/* Bismillah */
