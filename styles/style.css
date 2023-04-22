@@ -1,13 +1,61 @@
 /* A'uzubillah */
 
-.container{
-    width: 100%;
-    max-width: 1140px;
-    margin: 0 auto;
-    padding: 0 16px;
-    margin-top: 24px;
+.container {
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 16px;
+  margin-top: 24px;
 }
 
+/* works */
+
+.works__title {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 105px;
+  text-align: center;
+  color: #1c2323;
+}
+.works__subtitle {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 45px;
+  text-align: center;
+  color: #404242;
+}
+.works__banner {
+  display: flex;
+}
+.banner {
+    width: 70%;
+    height: 313px;
+    object-fit: cover;
+}   
+.works__content {
+  background: #ccf0e6;
+  border-radius: 0px 10px 10px 0px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 70px;
+}
+.works__content p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #486958;
+}
+.works__content h4 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  color: #486958;
+}
+/* works */
 .header__wrapper{
     display: flex;
     justify-content: space-between;
