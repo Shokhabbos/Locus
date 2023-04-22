@@ -83,6 +83,11 @@
     color: aliceblue;
     cursor: pointer;
 }
+.header__button:hover{
+    color: #58A9A5;
+    background-color: aliceblue;
+    border:1px solid #58A9A5;
+}
 
 .header__list{
     display: flex;
