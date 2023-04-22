@@ -61,19 +61,7 @@
     align-items:  center;
 }
 
-.header__left{
-    display: flex;
-    justify-content: space-between;
-    cursor: pointer;
-}
-.header__left h1{
-    font-family:"Poppins";
-    color: #58A9A5;
-    font-size: 35px;
-    margin-left: 7px;
 
-
-}
 .header__button{
     background: #58A9A5;
     width: 140px;
