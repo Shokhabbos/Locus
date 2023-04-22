@@ -81,6 +81,7 @@
     border-color: #58A9A5;
     border: none;
     color: aliceblue;
+    cursor: pointer;
 }
 
 .header__list{
