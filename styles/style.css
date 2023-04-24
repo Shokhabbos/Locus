@@ -107,7 +107,38 @@
     color: #58A9A5;
 }
 
-/* section */
+/* aside */
 
+.aside__left h1{
+  font-size: 60px;
+}
 
+.aside__bttn{
+  background: #58A9A5;
+  width: 140px;
+  height: 50px;
+  border-radius: 10px;
+  border-color: #58A9A5;
+  border: none;
+}
 
+.aside__bttn a{
+  color: aliceblue;
+}
+
+.aside__right{
+  background-image: url(./bgi/fon.svg);
+  /* background-image: url(./bgi/image\ 1.png); */
+  max-width:880px;
+  width: 100%;
+  height: 800px;
+  background-repeat: no-repeat;
+
+}
+.aside__pic{
+  background-image: url(./bgi/image\ 1.png);
+  max-width:880px;
+  width: 100%;
+  height: 800px;
+  background-repeat: no-repeat;
+}
