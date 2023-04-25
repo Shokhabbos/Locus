@@ -202,3 +202,34 @@ aside{
   margin-left: 519px;
 }
 
+.article__main{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 61px;
+}
+
+.article__main h1{
+  color: #58A9A5;
+  font-size: 30px;
+}
+
+.article__main p{
+  color: #486958;
+  font-size: 19px;
+
+}
+
+/* main */
+
+.main__text{
+  font-size: 30px;
+  text-align: center;
+}
+
+.main__brands{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+ 
