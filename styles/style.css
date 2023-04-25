@@ -174,4 +174,31 @@ aside{
   margin-top: -167px;
 }
 
+/* article */
+
+.article__text{
+  text-align: center;
+
+}
+
+.article__text h1{
+  font-size: 40px;
+}
+
+.article__text p{
+  font-size: 30px;
+}
+
+.article__border{
+  border-bottom: 5px solid  #58A9A5;
+  width: 135px;
+  margin-left: 519px;
+  margin-bottom: 13px;
+}
+
+.article__border_second{
+  border-bottom: 5px solid  #58A9A5;
+  width: 135px;
+  margin-left: 519px;
+}
 
