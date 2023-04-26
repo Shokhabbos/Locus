@@ -132,21 +132,7 @@ aside{
   color: aliceblue;
 }
 
-/* .aside__right{
-  background-image: url(./bgi/fon.svg);
-  max-width:880px;
-  width: 100%;
-  height: 800px;
-  background-repeat: no-repeat;
 
-}
-.aside__pic{
-  background-image: url(./bgi/image\ 1.png);
-  max-width:880px;
-  width: 100%;
-  height: 800px;
-  background-repeat: no-repeat;
-}  */
 
 
 /* delivery */
@@ -233,43 +219,19 @@ aside{
   align-items: center;
 }
  
-/* var */
 
-.var__right{
-  
-  background-color: #CCF0E6;
-  max-height:800px ;
-  
 
+
+
+.footer__border{
+  border-bottom: 5px solid  #58A9A5;
+  width: 135px;
+  /* margin-left: 519px; */
+  margin-bottom: 9px;
 }
 
-.var__info h1{
-  font-size: 55px;
-  color: #58A9A5;
-
-  
-}
-
-.var__info p{
-  font-size: 35px;
-  color:  #58A9A5;
-  
-  
-}
-
-.var__wrapper{
-  display: flex;
-  justify-content: space-between;
-  /* align-items: center; */
-}
-.var__main{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.var__pic{
-  width: 400px;
-  height: 550px;
-  object-fit: contain;
+.footer__border_second{
+  border-bottom: 5px solid  #58A9A5;
+  width: 135px;
+  /* margin-left: 519px; */
 }
