@@ -55,7 +55,7 @@
   line-height: 30px;
   color: #486958;
 }
-/* works */
+
 .header__wrapper{
     display: flex;
     justify-content: space-between;
@@ -233,3 +233,43 @@ aside{
   align-items: center;
 }
  
+/* var */
+
+.var__right{
+  
+  background-color: #CCF0E6;
+  max-height:800px ;
+  
+
+}
+
+.var__info h1{
+  font-size: 55px;
+  color: #58A9A5;
+
+  
+}
+
+.var__info p{
+  font-size: 35px;
+  color:  #58A9A5;
+  
+  
+}
+
+.var__wrapper{
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+}
+.var__main{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.var__pic{
+  width: 400px;
+  height: 550px;
+  object-fit: contain;
+}
