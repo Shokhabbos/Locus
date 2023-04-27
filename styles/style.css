@@ -221,7 +221,7 @@ aside{
  
 
 
-
+/* footer */
 
 .footer__border{
   border-bottom: 5px solid  #58A9A5;
@@ -234,4 +234,15 @@ aside{
   border-bottom: 5px solid  #58A9A5;
   width: 135px;
   /* margin-left: 519px; */
+}
+
+.footer__wrapper{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.name{
+  border: none;
+  border-bottom: 1px solid black;
 }
