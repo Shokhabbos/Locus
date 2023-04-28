@@ -108,6 +108,11 @@
 }
 
 /* aside */
+.aside__wrapper{
+  display: flex;
+  justify-content: space-between;
+}
+
 aside{
   display: flex;
   justify-content: space-between;
@@ -131,7 +136,16 @@ aside{
 .aside__bttn a{
   color: aliceblue;
 }
-
+/* Aside pic */
+.aside__pic{
+  background-image: url("../images/furnuture.png"),url("../images/fon.svg") ;
+  width: 644px;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right;
+}
+/* Aside pic */
 
 
 
